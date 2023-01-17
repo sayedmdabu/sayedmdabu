@@ -1,35 +1,42 @@
-<!--Hi there 👋
+<img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="250px">
+
+### Hi, I'm [Md Abu Sayed](https://www.linkedin.com/in/sayedmdabu/)
+
+* Software Engineer | PHP | Python | REST API | Full Stack Web Developer | Microservices | AWS *
 
 
-**sayedmdabu/sayedmdabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hi there 👋
-------------------
-Here are some ideas that i've been working on:
-
-- 🔭 I’m currently working on ... A native Android Application which is a Music App(Lyric App).
-- 🌱 I’m currently learning ...Kotlin and React Native
-- 👯 I’m looking to collaborate on ...Native Android Projects and Cross-Platform using Flutter
-- 💬 Ask me about ...Anything
-- 😄 Pronouns: ...He/His
+- 🌱 I’m currently trying to learn [Global distribution Architecture] , [Golang] ,[Global SAAS] , [Cloud Native Architecture] .
+- 🔭 I’m currently working on **some of my side projects :P**
+- 👯 I’m looking to collaborate on **anything free and open source**
+- ⚡ Fun fact: I spend almost 2 hours surfing & learning new things in internet everyday. I love to keep myself updated!!
 
 
-### How to reach me:
-
-<a href="#" ><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
-<a href="https://www.linkedin.com/in/sayedmdabu/" ><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /> </a>
-------------------
+## &#x1f4c8; GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=sayedmdabu&&show_icons=true&title_color=ffffff&icon_color=F78B31&text_color=daf7dc&bg_color=151515">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayedmdabu&theme=tokyonight">
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sayedmdabu&theme=tokyonight">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayedmdabu&theme=tokyonight">
+
+
+### Tech Stack:
+<img align="left" alt="sayedmdabu | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+<img align="left" alt="sayedmdabu | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
+<img align="left" alt="sayedmdabu | pub" width="22px" src="https://simpleicons.org/icons/nodedotjs.svg" />
+<img align="left" alt="sayedmdabu | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
+<img align="left" alt="sayedmdabu | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
+<img align="left" alt="sayedmdabu | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" alt="sayedmdabu | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />
+<img align="left" alt="sayedmdabu | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" />
+<img align="left" alt="sayedmdabu | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
+<img align="left" alt="sayedmdabu | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />
+<img align="left" alt="sayedmdabu | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jekyll.svg" />
+<img align="left" alt="sayedmdabu | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hugo.svg" />
+<img align="left" alt="sayedmdabu | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<img align="left" alt="sayedmdabu | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="sayedmdabu | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" />
